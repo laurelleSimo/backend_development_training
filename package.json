@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "Larida",
+	"description": "Ce projet marque le debut de ma formation dans le developpement backend avec node js et le framework express",
+	"keywords": ["freecodecamp", "backend", "developpement"],
+	"license": "ACCESS",
+	"version": "1.0.0"
 }
